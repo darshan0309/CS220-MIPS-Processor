@@ -1,6 +1,6 @@
 # CS220-MIPS-Processor
 
-[If you want to see the MIPS Processor, click here](./MIPS%20Processor)
+[If you want to see the MIPS Processor, click here](./IITK-MIPS%20Processor)
 
 ## Assignment 1:
 - **Full Subtractor Architecture:**  
